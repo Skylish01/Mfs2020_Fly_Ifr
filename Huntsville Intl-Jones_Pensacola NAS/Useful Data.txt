@@ -1,0 +1,17 @@
+Useful url:
+
+https://fshub.io
+https://metar-taf.com
+https://www.windy.com
+https://navigraph.com
+https://www.simbrief.com
+https://volanta.app
+https://www.vatsim.net/
+
+Useful mod for mfs2020:
+
+https://docs.flybywiresim.com/fbw-a32nx/installation/
+http://www.fsuipc.com/
+https://www.selfloadingcargo.com/
+https://flightsim.to/file/853/pushback-helper-v2-0
+https://flightsim.to/file/8163/flight-recorder
